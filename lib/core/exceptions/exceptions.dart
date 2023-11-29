@@ -1,0 +1,1 @@
+class InvalidClaimException implements Exception {}
